@@ -1,7 +1,7 @@
 import React from 'react';
-const x=0
+var x=0
 const Header = () => {
-  if(x==0){
+  if(x===0){
     window.alert("Kindly wait 30-40 seconds after clicking upload for backend to load.Thanks for the patience")
     x=1
   }
