@@ -19,7 +19,7 @@ const Header = () => {
 
   return (
     <header style={headerStyle} className="text-center">
-      <h1 style={headingStyle}>Rapidfort-Task</h1>
+      <h1 style={headingStyle}>File-Detailer</h1>
     </header>
   );
 };
